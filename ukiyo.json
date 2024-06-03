@@ -286,7 +286,7 @@
         },
         "plus":{
        "version":"0",
-       "mentionLineColor": "a297c3",
+       "mentionLineColor": "#a297c3",
        "iconpack":"rosiecord-plumpy"
        
   },
